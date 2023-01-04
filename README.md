@@ -25,7 +25,7 @@ To start the application run the following commands:
 * npm run
 ```
 
-# ScreenShots
+## ScreenShots
 
 ![App Screenshot](https://github.com/Parwiz-Haqbien/PWA-Text-Editor/blob/main/assets/webSS.png?raw=true)
 
