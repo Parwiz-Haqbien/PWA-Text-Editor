@@ -4,13 +4,13 @@
 - [Description](#description)
 - [Installation](#installation)
 - [Contribution](#contribution)
-- [ScreenShots] (#screenshots)
+- [ScreenShots](#screenshots)
 
 ## Description
 This simple text editor app utilizes webpack and service workers to provide a seamless experience. Install it on your device and start taking notes on the go!.
 
 ## Installation
-To start the application run the following commands
+To start the application run the following commands:
 
 1. Clone the repo
 ```
