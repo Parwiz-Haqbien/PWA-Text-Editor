@@ -22,7 +22,7 @@ npm i
 ```
 3. NPM run build
 ```
-npm run
+npm start
 ```
 
 ## ScreenShots
