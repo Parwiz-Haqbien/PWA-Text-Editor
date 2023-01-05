@@ -14,15 +14,15 @@ To start the application run the following commands:
 
 1. Clone the repo
 ```
-* https://github.com/Parwiz-Haqbien/PWA-Text-Editor.git
+https://github.com/Parwiz-Haqbien/PWA-Text-Editor.git
 ```
 2. Install NPM packages
 ```
-* npm i
+npm i
 ```
 3. NPM run build
 ```
-* npm run
+npm run
 ```
 
 ## ScreenShots
