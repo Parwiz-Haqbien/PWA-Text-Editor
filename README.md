@@ -36,4 +36,4 @@ npm start
 ## Contribution
 Made by Parwiz Haqbien
 
-page url()
+Heroku page url(https://pwa-text-editor12.herokuapp.com/)
